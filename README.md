@@ -1,0 +1,1 @@
+Plots k space allowed band splittings for an Altermagnet material given a structural CIF file in symmetrized materialsproject format and user-inputted magnetic pattern (G, C_i, A_i)-type antiferromagnetism.
